@@ -8,7 +8,7 @@ title: About
 <h2>About Me</h2>
 
 <p>
-I am <strong>Zahra Kanani</strong>, a <strong>Biomedical Engineer</strong> specializing in <strong>Artificial Intelligence for Healthcare</strong> and <strong>Medical Device Regulation</strong>. 
+I am <strong>Zari Kanani</strong>, a <strong>Biomedical Engineer</strong> specializing in <strong>Artificial Intelligence for Healthcare</strong> and <strong>Medical Device Regulation</strong>. 
 My interdisciplinary background bridges <em>machine learning, biomedical data analysis, and regulatory science</em>, with a focus on developing AI tools that are both scientifically robust and clinically trustworthy.
 </p>
 
