@@ -5,13 +5,13 @@ plugins:
   - jekyll-remote-theme
 
 
-url: "https://zahra-kanani.github.io"
+url: "https://zari-kanani.github.io"
 baseurl: ""
 
 author:
-  name: "Zahra Kanani"
-  email: "zahrakanani26@gmail.com"
-  linkedin: "https://www.linkedin.com/in/zahrakanani"
+  name: "Zari Kanani"
+  email: "zari.kanani.1991@gmail.com"
+  linkedin: "https://www.linkedin.com/in/zarikanani"
 
 # Add this line
 include:
