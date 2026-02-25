@@ -15,7 +15,7 @@ Developed a hybrid AdaMatch–FlexMatch algorithm using PyTorch.
 **2. Image Classification with CNN**  
 Built TensorFlow/Keras CNN models for biomedical image classification.
 
-[View Project (HTML)](/assets/projects/svhn_cnn_classifier.html) · [GitHub Code](https://github.com/zahra-kanani/svhn-cnn-classifier)
+[View Project (HTML)](/assets/projects/svhn_cnn_classifier.html) · [GitHub Code](https://github.com/zari-kanani/svhn-cnn-classifier)
 
 **3. Biomedical Text Classification**  
 Compared TF-IDF vs PubMedBERT representations for healthcare text mining.
