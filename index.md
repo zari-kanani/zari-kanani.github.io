@@ -29,7 +29,7 @@ title: Home
 
   
   <div class="hero-img">
-    <img src="zari_img.jpg" alt="Zari Kanani" class="profile-img">
+    <img src="zari_img.png" alt="Zari Kanani" class="profile-img">
   </div>
   
 </div>
