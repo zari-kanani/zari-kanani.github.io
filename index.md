@@ -27,7 +27,9 @@ title: Home
     </div>
   </div>
 
+  <!--
   <div class="hero-img">
     <img src="zari_img.jpg" alt="Zari Kanani" class="profile-img">
   </div>
+  -->
 </div>
