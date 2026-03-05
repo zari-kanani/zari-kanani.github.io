@@ -8,6 +8,8 @@ title: Projects
 
 **1. Pneumonia Detection from Chest X-Rays**  
 Built a deep learning model to classify chest X-rays as pneumonia or normal, with Grad-CAM heatmaps to interpret and visualize model predictions.
+[View Project (HTML)](assets/projects/pneumonia_detection_xray_with_gradcam.html) · [GitHub Code](https://github.com/zari-kanani/
+pneumonia_detection_xray_with_gradcam)
 
 **2. Improving Semi-Supervised Learning under Class Imbalance**  
 Developed a hybrid AdaMatch–FlexMatch algorithm using PyTorch.  
