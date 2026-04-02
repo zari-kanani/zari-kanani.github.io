@@ -16,7 +16,7 @@ title: CV
 
   <!-- Smaller, centered CV image -->
   <div style="display:flex; justify-content:center;">
-    <img src="assets/img/CV_zari.jpg" 
+    <img src="assets/img/CV_En.jpg" , img src="assets/img/CV_Fr.jpg"
          alt="Zari Kanani Curriculum Vitae" 
          style="width:85%; max-width:950px; height:auto; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.05);">
   </div>
