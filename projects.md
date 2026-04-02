@@ -23,7 +23,7 @@ Built TensorFlow/Keras CNN models for biomedical image classification.
 Compared TF-IDF vs PubMedBERT representations for healthcare text mining.
 
 **5. Information Retrieval System**  
-Developed a Python-based search engine using PyTerrier for biomedical abstracts.
+Developed a Python-based search engine using PyTerrier for biomedical abstracts.   
 [View Project (HTML)](/assets/projects/covid19-search-engine-pyterrier.html)
 
 **6. COVID-19 Abstract Analysis**  
