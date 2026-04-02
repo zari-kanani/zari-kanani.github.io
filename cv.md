@@ -8,9 +8,9 @@ title: CV
 
   <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; margin-bottom:16px;">
     <h1 style="margin:0; color:#004d40;">Curriculum Vitae</h1>
-    <a href="CV_zahra.pdf" download 
+    <a href="CV_Zari (English and Franch versions).pdf" download 
        style="background:#00796b;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:600">
-      📄 Download Full CV (PDF)
+      📄 Download Full CV (En & Fr)
     </a>
   </div>
 
