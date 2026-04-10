@@ -26,6 +26,10 @@ Compared TF-IDF vs PubMedBERT representations for healthcare text mining.
 Developed a Python-based search engine using PyTerrier for biomedical abstracts.   
 [View Project (HTML)](/assets/projects/covid19-search-engine-pyterrier.html). [GitHub Code](https://github.com/zari-kanani/covid19-search-engine-pyterrier)
 
+**6. Semantic Information Retrieval for Biomedical Literature**
+Enhanced BM25 retrieval on the Covid dataset by integrating MeSH medical vocabulary. Implemented query expansion, document expansion, and field-weighted ranking using PyTerrier.
+[View Project (HTML)](/assets/projects/Semantic_Information_Retrieva.html). [GitHub Code](https://github.com/zari-kanani/Semantic_Information_Retrieval)
+
 **6. COVID-19 Abstract Analysis**  
 Processed and analyzed PubMed abstracts with spaCy.  
 [View Project (HTML)](/assets/projects/covid19-nlp-analysis.html) · [GitHub Code](https://github.com/zari-kanani/covid19-nlp-analysis
