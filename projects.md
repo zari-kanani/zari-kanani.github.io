@@ -7,7 +7,7 @@ title: Projects
 ### Selected AI Projects
 
 **1. Brain Tumor Segmentation from MRI Scans**  
-Built a U-Net from scratch in PyTorch to segment brain tumors from BraTS 2020 MRI scans — Dice Score: 0.90
+Built a U-Net from scratch in PyTorch to segment brain tumors from BraTS 2020 MRI scans — Dice Score: 0.90   
 [View Project (HTML)](assets/projects/Brain_Tumor_Segmentation.html) · [GitHub Code](https://github.com/zari-kanani/Brain_Tumor_Segmentation)
 
 **2. Pneumonia Detection from Chest X-Rays**  
