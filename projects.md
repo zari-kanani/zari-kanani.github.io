@@ -6,31 +6,35 @@ title: Projects
 
 ### Selected AI Projects
 
-**1. Pneumonia Detection from Chest X-Rays**  
+**1. Brain Tumor Segmentation from MRI Scans**  
+Built a U-Net from scratch in PyTorch to segment brain tumors from BraTS 2020 MRI scans — Dice Score: 0.90
+[View Project (HTML)](assets/projects/Brain_Tumor_Segmentation.html) · [GitHub Code](https://github.com/zari-kanani/Brain_Tumor_Segmentation)
+
+**2. Pneumonia Detection from Chest X-Rays**  
 Built a deep learning model to classify chest X-rays as pneumonia or normal, with Grad-CAM heatmaps to interpret and visualize model predictions.  
 [View Project (HTML)](assets/projects/pneumonia_detection_xray_with_gradcam.html) · [GitHub Code](https://github.com/zari-kanani/pneumonia_detection_xray_with_gradcam)
 
-**2. Improving Semi-Supervised Learning under Class Imbalance**  
+**3. Improving Semi-Supervised Learning under Class Imbalance**  
 Developed a hybrid AdaMatch–FlexMatch algorithm using PyTorch.  
 → Improved minority-class accuracy while preserving majority-class performance.  
 [Notice: Full Report (PDF)](assets/pdf/ssl_class_imbalance.pdf)
 
-**3. Image Classification with CNN**  
+**4. Image Classification with CNN**  
 Built TensorFlow/Keras CNN models for biomedical image classification.  
 [View Project (HTML)](/assets/projects/svhn_cnn_classifier.html) · [GitHub Code](https://github.com/zari-kanani/svhn-cnn-classifier)
 
-**4. Biomedical Text Classification**  
+**5. Biomedical Text Classification**  
 Compared TF-IDF vs PubMedBERT representations for healthcare text mining.
 
-**5. Information Retrieval System**  
+**6. Information Retrieval System**  
 Developed a Python-based search engine using PyTerrier for biomedical abstracts.   
 [View Project (HTML)](/assets/projects/covid19-search-engine-pyterrier.html). [GitHub Code](https://github.com/zari-kanani/covid19-search-engine-pyterrier)
 
-**6. Semantic Information Retrieval for Biomedical Literature**   
+**7. Semantic Information Retrieval for Biomedical Literature**   
 Enhanced BM25 retrieval on the Covid dataset by integrating MeSH medical vocabulary. Implemented query expansion, document expansion, and field-weighted ranking using PyTerrier.   
 [View Project (HTML)](assets/projects/Semantic_Information_Retrieval.html). [GitHub Code](https://github.com/zari-kanani/Semantic_Information_Retrieval)
 
-**7. COVID-19 Abstract Analysis**  
+**8. COVID-19 Abstract Analysis**  
 Processed and analyzed PubMed abstracts with spaCy.  
 [View Project (HTML)](/assets/projects/covid19-nlp-analysis.html) · [GitHub Code](https://github.com/zari-kanani/covid19-nlp-analysis
 )
